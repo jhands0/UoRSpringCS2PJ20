@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458204996640",
+    "firebase_url": "https://cs2pj22-coursework-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cs2pj22-coursework",
+    "storage_bucket": "cs2pj22-coursework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458204996640:android:b47c6405d7090e5265c845",
+        "android_client_info": {
+          "package_name": "uk.ac.reading.sis05kol.mooc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458204996640-lv68sj99j4v7479t31h6ce1d0ei6f549.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztds3zM2bqR3kp6iGq7UGLnVD1qh2iW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458204996640-lv68sj99j4v7479t31h6ce1d0ei6f549.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
